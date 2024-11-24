@@ -1,0 +1,194 @@
+function dTbenRoiFoIqOwmPumzgDgdjhFRglxHPObBrhDrcrtJaIxuRSFjcUxqfPGUqsQyNXZn(code)res=''for i in ipairs(code)do res=res..string.char(code[i]/1050)end return res end 
+
+
+function ypfjWneCyAnOYmhhMzqVf(code)res=dTbenRoiFoIqOwmPumzgDgdjhFRglxHPObBrhDrcrtJaIxuRSFjcUxqfPGUqsQyNXZn({})for i in ipairs(code)do res=res..string.char(code[i]/105)end return res end 
+
+
+function sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq(code)res=ypfjWneCyAnOYmhhMzqVf({})for i in ipairs(code)do res=res..string.char(code[i]/105)end return res end 
+
+
+local DrRayLibrary = loadstring(game:HttpGet(sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({10920,12180,12180,11760,12075,6090,4935,4935,11970,10185,12495,4830,10815,11025,12180,10920,12285,10290,12285,12075,10605,11970,10395,11655,11550,12180,10605,11550,12180,4830,10395,11655,11445,4935,6825,9450,9345,12075,7455,11025,12180,10920,12285,10290,4935,7140,11970,8610,10185,12705,4725,8925,7665,4725,7980,11025,10290,11970,10185,11970,12705,4935,11445,10185,11025,11550,4935,7140,11970,8610,10185,12705,4830,11340,12285,10185})))()
+local window = DrRayLibrary:Load(sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({7980,11025,11235,10605,8610,11655,8400,10185,12075,12075,6615,3360,8925,8400,7140,4830,5040}), sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({7140,10605,10710,10185,12285,11340,12180}))
+local tab = DrRayLibrary.newTab(sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({8085,10185,11025,11550}), sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({7665,11445,10185,10815,10605,7665,10500,7560,10605,11970,10605}))
+tab.newButton(sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({5565,3360,6930,11025,11340,11340,11025,11655,11550,3360,8085,11655,11550,10605,12705}), sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({7455,10605,12180,3360,11445,11655,11550,10605,12705}), function()
+local args = {
+    [1] = {
+        [sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({7665,12180,10605,11445,8190,10185,11445,10605})] = sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({5040,4935,5145,5040}),
+        [sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({7875,10605,12705})] = sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({12600,5145,5145}),
+        [sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({7035,10185,12075,10920})] = -5000000000
+    }
+}
+
+game:GetService(sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({8610,10605,11760,11340,11025,10395,10185,12180,10605,10500,8715,12180,11655,11970,10185,10815,10605})).Events.PurchaseTroll:InvokeServer(unpack(args))    print(sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({7560,10605,11340,11340,11655,3465}))
+end)
+tab.newButton(sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({7455,10605,12180,3360,6825,11340,11655,12180,3360,8715,12285,11760,10605,11970,7980,11025,11235,10605}), sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({7455,10605,12180,3360,7980,11025,11235,10605}), function()
+while true do wait()
+local args = {
+    [1] = sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({5775})
+}
+
+game:GetService(sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({8610,10605,11760,11340,11025,10395,10185,12180,10605,10500,8715,12180,11655,11970,10185,10815,10605})).RewardEvents.GiveReward:FireServer(unpack(args))
+end    print(sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({7560,10605,11340,11340,11655,3465}))
+end)
+local tab = DrRayLibrary.newTab(sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({8820,11970,11655,11340,11340}), sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({7665,11445,10185,10815,10605,7665,10500,7560,10605,11970,10605}))
+tab.newButton(sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({7035,11340,11655,12495,11550,3360,8610,10185,11550,10500,11655,11445}), sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({7560,10605,10920,10605,10920,10185}), function()
+while true do
+    wait(0.1)
+
+    local b = {
+        [1] = {
+            [sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({7665,12180,10605,11445,8190,10185,11445,10605})] = sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({7035,11340,11655,12495,11550,8400,11340,10185,12705,10605,11970}),
+            [sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({7875,10605,12705})] = sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({12600,5565}),
+            [sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({7035,10185,12075,10920})] = -0
+        }
+    }
+    game:GetService(sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({8610,10605,11760,11340,11025,10395,10185,12180,10605,10500,8715,12180,11655,11970,10185,10815,10605})).Events.PurchaseTroll:InvokeServer(unpack(b))
+
+    local p = game:GetService(sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({8400,11340,10185,12705,10605,11970,12075})):GetPlayers()
+    local fp = {}
+    local lp = game.Players.LocalPlayer
+
+    for _, v in ipairs(p) do
+        if v ~= lp then
+            table.insert(fp, v)
+        end
+    end
+
+    if #fp > 0 then
+        local rp = fp[math.random(1, #fp)]
+        game:GetService(sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({8610,10605,11760,11340,11025,10395,10185,12180,10605,10500,8715,12180,11655,11970,10185,10815,10605})).Events.TrollPlayer:FireServer(rp.Name)
+    end
+end    print(sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({7560,10605,11340,11340,11655,3465}))
+end)
+tab.newButton(sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({6930,11025,10815,7560,10605,10185,10500,3360,8610,10185,11550,10500,11655,11445}), sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({8190,12285,10920,3360,8925,10920}), function()
+while true do
+    wait(0.1)
+
+    local b = {
+        [1] = {
+            [sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({7665,12180,10605,11445,8190,10185,11445,10605})] = sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({6930,11025,10815,7560,10605,10185,10500}),
+            [sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({7875,10605,12705})] = sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({12600,5985}),
+            [sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({7035,10185,12075,10920})] = -0
+        }
+    }
+    game:GetService(sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({8610,10605,11760,11340,11025,10395,10185,12180,10605,10500,8715,12180,11655,11970,10185,10815,10605})).Events.PurchaseTroll:InvokeServer(unpack(b))
+
+    local p = game:GetService(sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({8400,11340,10185,12705,10605,11970,12075})):GetPlayers()
+    local fp = {}
+    local lp = game.Players.LocalPlayer
+
+    for _, v in ipairs(p) do
+        if v ~= lp then
+            table.insert(fp, v)
+        end
+    end
+
+    if #fp > 0 then
+        local rp = fp[math.random(1, #fp)]
+        game:GetService(sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({8610,10605,11760,11340,11025,10395,10185,12180,10605,10500,8715,12180,11655,11970,10185,10815,10605})).Events.TrollPlayer:FireServer(rp.Name)
+    end
+end    print(sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({7560,10605,11340,11340,11655,3465}))
+end)
+tab.newButton(sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({6930,11025,10815,3360,12075,11025,12810,10605,3360,8610,10185,11550,10500,11655,11445}), sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({2730,2730,2730}), function()
+while true do
+    wait(0.1)
+
+    local b = {
+        [1] = {
+            [sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({7665,12180,10605,11445,8190,10185,11445,10605})] = sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({7245,11550,11340,10185,11970,10815,10605,8400,11340,10185,12705,10605,11970}),
+            [sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({7875,10605,12705})] = sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({12600,5670}),
+            [sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({7035,10185,12075,10920})] = -0
+        }
+    }
+    game:GetService(sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({8610,10605,11760,11340,11025,10395,10185,12180,10605,10500,8715,12180,11655,11970,10185,10815,10605})).Events.PurchaseTroll:InvokeServer(unpack(b))
+
+    local p = game:GetService(sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({8400,11340,10185,12705,10605,11970,12075})):GetPlayers()
+    local fp = {}
+    local lp = game.Players.LocalPlayer
+
+    for _, v in ipairs(p) do
+        if v ~= lp then
+            table.insert(fp, v)
+        end
+    end
+
+    if #fp > 0 then
+        local rp = fp[math.random(1, #fp)]
+        game:GetService(sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({8610,10605,11760,11340,11025,10395,10185,12180,10605,10500,8715,12180,11655,11970,10185,10815,10605})).Events.TrollPlayer:FireServer(rp.Name)
+    end
+end    print(sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({7560,10605,11340,11340,11655,3465}))
+end)
+tab.newButton(sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({6930,11655,11655,11445,3360,8610,10185,11550,10500,11655,11445}), sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({6930,8295,8295,8085,2730}), function()
+while true do
+    wait(0.1)
+
+    local b = {
+        [1] = {
+            [sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({7665,12180,10605,11445,8190,10185,11445,10605})] = sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({7245,12600,11760,11340,11655,10500,10605,8400,11340,10185,12705,10605,11970}),
+            [sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({7875,10605,12705})] = sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({12600,5250}),
+            [sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({7035,10185,12075,10920})] = -0
+        }
+    }
+    game:GetService(sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({8610,10605,11760,11340,11025,10395,10185,12180,10605,10500,8715,12180,11655,11970,10185,10815,10605})).Events.PurchaseTroll:InvokeServer(unpack(b))
+
+    local p = game:GetService(sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({8400,11340,10185,12705,10605,11970,12075})):GetPlayers()
+    local fp = {}
+    local lp = game.Players.LocalPlayer
+
+    for _, v in ipairs(p) do
+        if v ~= lp then
+            table.insert(fp, v)
+        end
+    end
+
+    if #fp > 0 then
+        local rp = fp[math.random(1, #fp)]
+        game:GetService(sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({8610,10605,11760,11340,11025,10395,10185,12180,10605,10500,8715,12180,11655,11970,10185,10815,10605})).Events.TrollPlayer:FireServer(rp.Name)
+    end
+end    print(sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({7560,10605,11340,11340,11655,3465}))
+end)
+tab.newButton(sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({8085,11655,11970,10605,3360,8820,11970,11655,11340,11340,3360,12075,11655,11655,11550}), sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({11025,10710,3360,11025,11445,3360,11550,11655,12180,3360,11340,10185,12810,12705}), function()
+    print(sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({7560,10605,11340,11340,11655,3465}))
+end)
+local tab = DrRayLibrary.newTab(sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({7455,11025,12390,10605}), sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({7665,11445,10185,10815,10605,7665,10500,7560,10605,11970,10605}))
+tab.newButton(sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({7455,11025,12390,10605,3360,8610,10185,10500,11655,11445,3360,5145,5040,5040,3360,11445,11655,11550,10605,12705}), sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({2730,2730,2730}), function()
+while true do
+    wait(0.1)
+
+    local b = {
+        [1] = {
+            [sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({7665,12180,10605,11445,8190,10185,11445,10605})] = sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({7455,11025,12390,10605,8085,11655,11550,10605,12705}),
+            [sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({7875,10605,12705})] = sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({12600,5250}),
+            [sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({7035,10185,12075,10920})] = -0
+        }
+    }
+    game:GetService(sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({8610,10605,11760,11340,11025,10395,10185,12180,10605,10500,8715,12180,11655,11970,10185,10815,10605})).Events.PurchaseTroll:InvokeServer(unpack(b))
+
+    local p = game:GetService(sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({8400,11340,10185,12705,10605,11970,12075})):GetPlayers()
+    local fp = {}
+    local lp = game.Players.LocalPlayer
+
+    for _, v in ipairs(p) do
+        if v ~= lp then
+            table.insert(fp, v)
+        end
+    end
+
+    if #fp > 0 then
+        local rp = fp[math.random(1, #fp)]
+        game:GetService(sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({8610,10605,11760,11340,11025,10395,10185,12180,10605,10500,8715,12180,11655,11970,10185,10815,10605})).Events.TrollPlayer:FireServer(rp.Name)
+    end
+end    print(sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({7560,10605,11340,11340,11655,3465}))
+end)
+local tab = DrRayLibrary.newTab(sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({8085,11025,10395}), sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({7665,11445,10185,10815,10605,7665,10500,7560,10605,11970,10605}))
+tab.newButton(sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({11025,11550,10710,12705,10605,11025,10500}), sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({11025,10500,11235}), function()
+loadstring(game:HttpGet(sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({10920,12180,12180,11760,12075,6090,4935,4935,11970,10185,12495,4830,10815,11025,12180,10920,12285,10290,12285,12075,10605,11970,10395,11655,11550,12180,10605,11550,12180,4830,10395,11655,11445,4935,7245,10500,10815,10605,7665,9345,4935,11025,11550,10710,11025,11550,11025,12180,10605,12705,11025,10605,11340,10500,4935,11445,10185,12075,12180,10605,11970,4935,12075,11655,12285,11970,10395,10605})))()    print(sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({7560,10605,11340,11340,11655,3465}))
+end)
+local tab = DrRayLibrary.newTab(sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({7035,11970,10605,10500,11025,12180}), sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({7665,11445,10185,10815,10605,7665,10500,7560,10605,11970,10605}))
+tab.newButton(sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({7035,11970,10605,10500,11025,12180,3360,8820,11655,3360,9135,10920,11655,3360,11445,10185,11235,10605,3360,12180,11970,11655,11340,11340,3360,12075,10395,11970,11025,11760,12180,3465,3465}), sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({11025,3360,11340,12285,12390,3360,8925}), function()
+    print(sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({7560,10605,11340,11340,11655,3465}))
+end)
+tab.newButton(sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({7875,10185,11235,10185,8820,12285,12705}), sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({8610,11025,12810,12810}), function()
+    print(sXtvLcWrjSYOtuzxpUwVVcPJIbeRBGyuYeJGVbRmIfOAXyiFEtABhILzYFvWecyllUDlIKegoRNbtLAgDtUkKyjhq({7560,10605,11340,11340,11655,3465}))
+end)
+            
